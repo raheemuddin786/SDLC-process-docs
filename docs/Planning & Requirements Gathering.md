@@ -24,10 +24,10 @@ Planning & Requirements Gathering is the foundational phase of SDLC where projec
 
 ### Project Initiation
 
-- **[Project Charter](./Project%20Charter.md)**: Formal document authorizing the project
 - **[Business Case](./Business%20Case.md)**: Justification for the project
-- **Project Goals**: High-level objectives
-- **Success Criteria**: Measurable outcomes
+- **[Project Charter](./Project%20Charter.md)**: Formal document authorizing the project
+- **[Project Goals](./Project%20Goal.md)**: High-level objectives
+- **[Success Criteria](./Success%20Criteria.md)**: Measurable outcomes
 
 ### Resource Planning
 
