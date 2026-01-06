@@ -16,6 +16,8 @@ date: "2024"
 - **Feasibility Study**: Technical, economic, operational feasibility
 - **Scope Definition**: Project boundaries and deliverables
 
+For detailed information, see [Planning & Requirements Gathering](./Planning%20&%20Requirements%20Gathering.md)
+
 ### 2. System Design
 
 - **Architecture Design**: High-level system structure
