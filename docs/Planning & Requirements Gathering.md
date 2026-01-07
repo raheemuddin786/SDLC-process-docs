@@ -106,7 +106,7 @@ Planning & Requirements Gathering is the foundational phase of SDLC where projec
 
 ## 4. Requirements Types
 
-### Functional Requirements
+### [Functional Requirements](./Functional%20Requirements.md)
 
 - **What the system must do**
 - **User Actions**: Login, search, submit forms
@@ -117,7 +117,7 @@ Planning & Requirements Gathering is the foundational phase of SDLC where projec
   - "System shall validate email format"
   - "System shall calculate total order amount"
 
-### Non-Functional Requirements
+### [Non-Functional Requirements](./Non-Functional%20Requirements.md)
 
 - **How well the system performs**
 - **Performance**: Response time, throughput
@@ -132,21 +132,21 @@ Planning & Requirements Gathering is the foundational phase of SDLC where projec
   - "System shall support 10,000 concurrent users"
   - "System shall be accessible (WCAG 2.1 AA)"
 
-### Business Requirements
+### [Business Requirements](./Business%20Requirements.md)
 
 - **High-level business objectives**
 - **Business Goals**: Revenue, efficiency, compliance
 - **Business Rules**: Policies, regulations
 - **Success Metrics**: KPIs, ROI
 
-### User Requirements
+### [User Requirements](./User%20Requirements.md)
 
 - **User needs and expectations**
 - **User Stories**: "As a [role], I want [feature] so that [benefit]"
 - **Use Cases**: Scenarios of system usage
 - **User Personas**: Representative user profiles
 
-### System Requirements
+### [System Requirements](./System%20Requirements.md)
 
 - **Technical specifications**
 - **Hardware Requirements**: Servers, devices
