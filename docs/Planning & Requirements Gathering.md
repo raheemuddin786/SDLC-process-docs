@@ -243,4 +243,21 @@ Planning & Requirements Gathering is the foundational phase of SDLC where projec
 - **Scope Statement**: Clear boundaries
 - **Work Breakdown Structure (WBS)**: Task decomposition
 - **Scope Creep Prevention**: Change control process
-- **Change Management**: How to han
+- **Change Management**: How to handle scope changes
+
+## 8. Key Deliverables
+
+- **Project Charter**: Project authorization
+- **Stakeholder Register**: All stakeholders
+- **Requirements Specification (SRS)**: Detailed requirements
+- **Use Cases**: User interaction scenarios
+- **User Stories**: Feature descriptions
+- **Feasibility Study Report**: Viability assessment
+- **Scope Statement**: Project boundaries
+- **Requirements Traceability Matrix**: Requirement linkages
+- **Risk Register**: Identified risks
+- **Communication Plan**: Stakeholder engagement
+
+## Conclusion
+
+Effective Planning & Requirements Gathering is critical for project success. It ensures all stakeholders are aligned, requirements are clear and complete, and the project is feasible. Investing time in this phase prevents costly changes later in development.
