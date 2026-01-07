@@ -72,7 +72,7 @@ Planning & Requirements Gathering is the foundational phase of SDLC where projec
 
 #### Interviews
 - **[Structured Interviews](./Structured%20Interviews.md)**: Predefined questions
-- **Unstructured Interviews**: Open discussions
+- **[Unstructured Interviews](./Unstructured%20Interviews.md)**: Open discussions
 - **Semi-structured**: Mix of both approaches
 - **Best For**: Detailed understanding, sensitive topics
 
@@ -94,13 +94,13 @@ Planning & Requirements Gathering is the foundational phase of SDLC where projec
 - **Best For**: Large user groups, statistical analysis
 
 #### Document Analysis
-- **Existing Documentation**: Review current systems
-- **Business Process Documents**: Understand workflows
+- **[Existing Documentation](./Existing%20Documentation.md)**: Review current systems
+- **[Business Process Documents](./Business%20Process%20Document.md)**: Understand workflows
 - **Legacy System Analysis**: Learn from old systems
 - **Best For**: Understanding current state
 
 #### Prototyping
-- **Throwaway Prototypes**: Quick exploration
+- **[Throwaway Prototypes](./Throwaway%20Prototypes.md)**: Quick exploration
 - **Evolutionary Prototypes**: Iterative refinement
 - **Best For**: Visualizing requirements, user feedback
 
