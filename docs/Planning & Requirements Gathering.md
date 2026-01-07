@@ -34,7 +34,7 @@ Planning & Requirements Gathering is the foundational phase of SDLC where projec
 - **Team Formation**: Identify required roles and skills
 - **Budget Estimation**: Cost analysis and allocation
 - **Timeline Planning**: Milestones and deadlines
-- **Tool Selection**: Development tools and platforms
+- **[Tool Selection](./Tool%20Selection.md)**: Development tools and platforms
 
 ### Risk Planning
 
@@ -71,7 +71,7 @@ Planning & Requirements Gathering is the foundational phase of SDLC where projec
 ### Elicitation Methods
 
 #### Interviews
-- **Structured Interviews**: Predefined questions
+- **[Structured Interviews](./Structured%20Interviews.md)**: Predefined questions
 - **Unstructured Interviews**: Open discussions
 - **Semi-structured**: Mix of both approaches
 - **Best For**: Detailed understanding, sensitive topics
